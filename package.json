@@ -1,0 +1,42 @@
+{
+  "name": "angular2_stu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yicj",
+  "license": "ISC",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.17",
+    "es6-shim": "^0.35.1",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "^5.0.0-beta.6",
+    "zone.js": "^0.6.14"
+  },
+  "devDependencies": {
+    "a1atscript": "^0.4.4",
+    "autoprefixer-loader": "^2.0.0",
+    "babel": "^5.8.23",
+    "babel-core": "^5.8.23",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.16.0",
+    "file-loader": "^0.8.4",
+    "image-webpack-loader": "^1.6.1",
+    "imagemin": "^3.2.0",
+    "node-sass": "^3.3.2",
+    "react-mixin": "^1.7.0",
+    "sass-loader": "^2.0.1",
+    "scss-loader": "^0.0.1",
+    "style-loader": "^0.12.3",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.12.0",
+    "typescript": "^1.6.0-beta",
+    "typescript-simple-loader": "^0.3.7",
+    "es6-shim": "^0.33.1",
+    "ng-annotate": "^1.0.2",
+    "raw-loader": "^0.5.1",
+    "ng-annotate-webpack-plugin": "^0.1.2"
+  }
+}
